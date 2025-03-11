@@ -1,0 +1,7 @@
+com/streamingdata/collection/service/CollectionServiceWebSocketClient$2.class
+com/streamingdata/collection/service/CollectionServiceWebSocketClient.class
+com/streamingdata/collection/service/RSVPProducer.class
+com/streamingdata/collection/service/RSVPProducer$TopicCallbackHandler.class
+com/streamingdata/collection/service/CollectionServiceWebSocketClient$1.class
+com/streamingdata/collection/service/HybridMessageLogger.class
+com/streamingdata/collection/service/MeetupWebSocketClientHandler.class
