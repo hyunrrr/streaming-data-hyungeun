@@ -3,14 +3,16 @@
 소스 코드 다운로드 https://github.com/bjpublic/streaming-data
 를 돌아가게 만든 코드
 
+- kafka_2.11-0.11.0.1
+- apache-storm-1.0.2
+- python 2.7.18
+- java 1.8
+
+
 <img width="1027" alt="image" src="https://github.com/user-attachments/assets/c6adc226-45ce-419e-82e6-67abec3c44c2" />
 <img width="948" alt="image" src="https://github.com/user-attachments/assets/ffd084f2-ef27-4f5e-856a-9919e5ae6290" />
 <img width="832" alt="image" src="https://github.com/user-attachments/assets/bfe62d8b-cc23-4a2a-8bee-f326190dfad7" />
 
-kafka_2.11-0.11.0.1
-apache-storm-1.0.2
-python 2.7.18
-java 1.8
 
 토픽생성
 ```sh
